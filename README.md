@@ -9,9 +9,6 @@ Simple Rock Paper Scissors game built in VB.NET WinForms.
 ## ▶ How to run
 Open the project in Visual Studio and start playing
 
-## 📷 Screenshot
-![Screenshot](screenshot.png)
-
 ## 💡 Why I built this
 Learning to make GUI apps, use random numbers, and share on GitHub.
 
